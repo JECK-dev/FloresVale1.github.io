@@ -321,7 +321,7 @@ body {
           animation: light-ans 4s linear infinite backwards;
 }
 .flower__light:nth-child(odd) {
-  background-color: #fce700;
+  background-color: #800020;
 }
 .flower__light--1 {
   left: -2vmin;
